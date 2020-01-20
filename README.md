@@ -1,19 +1,14 @@
 # SMB-BBHD-SaveChanger
 Super Monkey Ball: Banana Blitz HD SaveChanger
 
-	This script will allow you to setup save files for All Worlds speedruns of BBHD. It can overwrite your save file with a new 
-  one and backup your current save file. 
+	This script will allow you to setup save files for All Worlds speedruns of BBHD. It can overwrite your save file with a new one and backup your current save file. 
 
 Getting Started
 
-  If you have not already done so, install python (https://www.python.org/downloads/)
+  	If you have not already done so, install python (https://www.python.org/downloads/)
   
-	Before running the script you must disable Steam Cloud synchronization for BBHD. You can do this by right clicking on the
-  game in your steam library, clicking preferences, clicking on the "UPDATES" tab and then unchecking the box at the bottom
-  that says "Enable Steam Cloud synchronization for Super Monkey Ball: Banana Blitz HD".
-  
-  I have included the save file I use for All Worlds speedruns. All of the worlds have been reset, sonic is unlocked, and I have all
-  options the way I like them.
+	Before running the script you must disable Steam Cloud synchronization for BBHD. You can do this by right clicking on the game in your steam library, clicking preferences, clicking on the "UPDATES" tab and then unchecking the box at the bottom   that says "Enable Steam Cloud synchronization for Super Monkey Ball: Banana Blitz HD". 
+	I have included the save file I use for All Worlds speedruns. All of the worlds have been reset, sonic is unlocked, and I have all options the way I like them.
 
 Usage
 

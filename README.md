@@ -33,7 +33,8 @@ Usage
       The first step is to close BBHD. You can do this quickly by going to steam and clicking the green 
       "STOP" button.
       Then run "Python SaveChanger.py" to restore your save file. 
-      The save file you want to restore must be named "AllWorlds.sav" and be in the same folder as SaveChanger.py.
+      The save file you want to restore must be named "AllWorlds.sav" and be in the same folder as 
+      SaveChanger.py.
 
 Prerequisites
 
